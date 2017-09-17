@@ -1,4 +1,4 @@
-# Pixel Art Maker Project
+# Pixel Art Maker Project by iDenis
 
 ## Table of Contents
 
@@ -7,10 +7,10 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To get started, open `index.html` and start transforming your fantasy to life.
+This small game gives you the possibility to create a grid of any size. After you can choose any color and just by clicking on any cell you will start to draw.
+Have fun :)
 
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+This repository is the starter code for _all_ Udacity students. If you would like to contribute you are most liked to di it.

@@ -5,11 +5,9 @@ $(function() {
   // When size is submitted by the user, call makeGrid()
   $('#sizePicker').submit(function(event) {
     // Select size input
-    if (height != $('#input_height').val() || width != $('#input_width').val()) {
-      height = $('#input_height').val();
-      width = $('#input_width').val();
-      makeGrid(height, width);
-    }
+    height = $('#input_height').val();
+    width = $('#input_width').val();
+    makeGrid(height, width);
     return false;
   });
 
